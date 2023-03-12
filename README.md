@@ -18,3 +18,5 @@ This removes the large Metro logo from the top of WMATA [Next Train](https://www
 - Open a separate tab in Firefox and navigate to WMATA_Logo.js file in this repository
 - Copy the contents of the file.
 - Return to the tab with the Tampermonkey script editor and paste the contents, overwriting anything already in the editor.
+- In Tampermonkey script editor, go to File -> Save.
+- Visit the [Next Train](https://www.wmata.com/js/nexttrain/nexttrain.html#A01,C01|Metro%20Center) page. The space-hogging logo should be gone.
