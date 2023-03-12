@@ -14,5 +14,7 @@ This removes the large Metro logo from the top of WMATA [Next Train](https://www
 - Navigate back to Settings and in the Advanced section, select 'Add-ons'.
 - Enable 'Tampermonkey' by selecting the '+' button and agreeing to add it.
 - Select 'Tampermonkey' and select 'Settings'.
-- Select the tab with the '+' button
-- Open a separate tab in Firefox and navigate to this repository
+- Select the tab with the '+' button to open the Tampermonkey script editor
+- Open a separate tab in Firefox and navigate to WMATA_Logo.js file in this repository
+- Copy the contents of the file.
+- Return to the tab with the Tampermonkey script editor and paste the contents, overwriting anything already in the editor.
